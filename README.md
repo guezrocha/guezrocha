@@ -1,7 +1,7 @@
 # FRANCISCO RODRIGUEZ ROCHA
 
 **Email:** guezrocha@gmail.com  
-**GitHub:** https://github.com/guezrocha  
+**GitHub:** (github.com/guezrocha)[https://github.com/guezrocha]  
 **Phone:** +41 78 240 85 40  
 **Location:** Basel, Switzerland  
 
