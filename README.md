@@ -1,31 +1,18 @@
 # FRANCISCO RODRIGUEZ ROCHA
-
-**Email:** guezrocha@gmail.com  
-**GitHub:** [github.com/guezrocha](https://github.com/guezrocha)  
-**Phone:** +41 78 240 85 40  
-**Location:** Basel, Switzerland  
-
-## SUMMARY
-
-Kubernetes-native infrastructure enthusiast with strong Red Hat roots, focused on building robust platforms using GitOps, automation, and open source technologies.
+### OpenShift · Kubernetes · AI
+Basel, Switzerland · +41 78 240 85 40 · franciscobasilea@gmail.com
+---
+Senior DevOps Engineer with over 8 years of experience designing, automating, and operating enterprise Kubernetes and Red Hat technologies. 
 
 ## EXPERIENCE
 
-**Senior DevOps Engineer**  
-J. Safra Sarasin  
-*Aug 2024 - Present*  
+**Senior DevOps Engineer** J. Safra Sarasin *Aug 2024 - Present*  
   
-**Consultant**  
-Red Hat  
-*May 2022 - Jul 2024*  
+**Consultant** Red Hat Poland *May 2022 - Jul 2024*
 
-**Associate Consultant**  
-Red Hat  
-*Apr 2018 - Jul 2020*  
+**Associate Consultant** Red Hat Spain*Apr 2018 - Jul 2020*  
 
-**Middleware Administrator**  
-Holcim  
-*Jan 2017 - Nov 2017*  
+**Middleware Administrator** Holcim *Jan 2017 - Nov 2017*  
 
 ## EDUCATION
 
@@ -33,7 +20,7 @@ Holcim
 University of Alcala  
 *Feb 2017 - Feb 2018*  
 
-**Advanced Android Development**  
+**Internet of Things**  
 Samsung Tech Institute  
 *Jun 2016 - Dec 2016*  
 
@@ -50,8 +37,8 @@ Red Hat Specialist in OpenShift Administration
 
 ## SKILLS
 
-OpenShift, Kubernetes, Operators, Linux, Argo CD, Helm, Kustomize, Podman, Docker, Ansible, Bash, Istio, Kiali, Jaeger, Grafana, Prometheus, ActiveMQ, HAProxy, Kafka, Nexus, Jenkins, JBoss
+OpenShift Container Platform, Kubernetes, Operator Lifecycle Manager, Red Hat Enterprise Linux, Argo CD, Helm, Kustomize, Podman, Docker, Ansible, Bash, Istio, Service Mesh, Kiali, Grafana, Prometheus, Apache Artemis, Red Hat AMQ Broker, Apache Kafka, HAProxy, Nexus, Velero, Python, Jupyter Notebook, Open WebUI, Ollama, OpenClaw.
 
 ## LANGUAGES
 
-Spanish, English, Italian
+Spanish, English
