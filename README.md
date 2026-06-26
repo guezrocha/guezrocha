@@ -1,8 +1,9 @@
-# FRANCISCO RODRIGUEZ ROCHA
+## FRANCISCO RODRIGUEZ ROCHA
 
 ### OpenShift · Kubernetes · AI
 
 Basel, Switzerland · +41 78 240 85 40 · franciscobasilea@gmail.com
+
 ---
 Senior DevOps Engineer with over 8 years of experience designing, automating, and operating enterprise Kubernetes and Red Hat technologies. 
 
